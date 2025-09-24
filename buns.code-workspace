@@ -4,5 +4,12 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {},
+    "extensions": {
+        "recommendations": [
+            "oxc.oxc-vscode",
+            "biomejs.biome"
+        ]
+
+    }
 }
