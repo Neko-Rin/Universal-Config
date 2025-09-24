@@ -6,7 +6,8 @@
   "devDependencies": {
     "@biomejs/biome": "2.2.4",
     "@types/bun": "latest",
-    "oxlint": "^1.16.0"
+    "oxlint": "^1.16.0",
+    "oxlint-tsgolint": "^0.2.0"
   },
   "peerDependencies": {
     "typescript": "^5"
